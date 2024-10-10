@@ -1,7 +1,6 @@
 # ia
-descrip
-dijfidfdofkdo
-
+la ia es ushjsjfkfpdfd
 ## Resumen
-Este es un breve resumen del proyecto. Aquí puedes describir la finalidad de tu proyecto y sus características clave en unas 250 palabras. 
+Este proyecto utiliza técnicas de inteligencia artificial para clasificar imágenes de diferentes categorías, como animales, paisajes y objetos. A través de un modelo de aprendizaje profundo, el clasificador puede identificar y etiquetar imágenes de manera precisa.  
 Construyendo un proyecto de curso de IA.
+
